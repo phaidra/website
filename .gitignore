@@ -1,5 +1,6 @@
 /log/*
 /tmp/*
+/site/*
 !/log/.keep
 !/tmp/.keep
 
