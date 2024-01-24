@@ -1,0 +1,22 @@
+.md-header__button.md-logo img,.md-header__button.md-logo svg {
+  height: 3.2rem;
+}
+
+.md-header__title {
+  font-size: 2rem;
+}
+
+[dir=ltr] .md-header__title {
+  margin-left: .4rem;
+  margin-right: .4rem
+}
+
+.md-tabs {
+  -webkit-box-shadow: 0 8px 40px -6px rgba(70,70,70,.4);
+  box-shadow: 0 8px 40px -6px rgba(70,70,70,.4)
+}
+
+.md-header, .md-header >*, .md-tabs {
+  background: white;
+  color: black;
+}

@@ -1,3 +1,15 @@
-site_name: Phaidra.org
+site_name: PHAIDRA
 theme:
   name: material
+  logo: /assets/img/logo.svg
+  favicon: /assets/img/logo.svg
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - navigation.sections
+    - navigation.path
+
+extra_css:
+  - assets/css/tweaks.css
