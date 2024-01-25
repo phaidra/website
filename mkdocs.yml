@@ -19,3 +19,6 @@ extra_css:
   - assets/css/tweaks.css
   - assets/css/tailwind.min.css
 
+plugins:
+  - search
+  - privacy
