@@ -1,6 +1,8 @@
 site_name: PHAIDRA
 theme:
   name: material
+  palette:
+    primary: white
   logo: /assets/img/logo.svg
   favicon: /assets/img/logo.svg
   features:

@@ -15,8 +15,3 @@
   -webkit-box-shadow: 0 8px 40px -6px rgba(70,70,70,.4);
   box-shadow: 0 8px 40px -6px rgba(70,70,70,.4)
 }
-
-.md-header, .md-header >*, .md-tabs {
-  background: white;
-  color: black;
-}
