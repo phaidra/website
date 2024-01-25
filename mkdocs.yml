@@ -5,9 +5,11 @@ theme:
     primary: white
   logo: /assets/img/logo.svg
   favicon: /assets/img/logo.svg
+  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - navigation.sections
