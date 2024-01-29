@@ -1,10 +1,14 @@
 site_name: PHAIDRA
+repo_url: https://github.com/phaidra/phaidra
+repo_name: phaidra/phaidra
 theme:
   name: material
   palette:
     primary: white
   logo: /assets/img/logo.svg
   favicon: /assets/img/logo.svg
+  icon:
+    repo: fontawesome/brands/github
   custom_dir: overrides
   features:
     - navigation.instant
