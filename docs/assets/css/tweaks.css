@@ -24,6 +24,10 @@ article p {
   margin: 1rem 0;
 }
 
+article {
+  padding-bottom: 4rem;
+}
+
 /* somehow tailwind class did not get taken, so putting it in here */
 hr {
   border: 1px solid #e5e7eb;
