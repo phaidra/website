@@ -16,6 +16,12 @@
   box-shadow: 0 8px 40px -6px rgba(70,70,70,.4)
 }
 
+/* somehow tailwind class did not get taken, so putting it in here */
+hr {
+  border: 1px solid #e5e7eb;
+  box-sizing: border-box;
+}
+
 
 /* add small external arrow icon after every link when leaving the site */
 main a[href^="http"]:not([href*="phaidra.org"]):not([href*="localhost"]):after {
