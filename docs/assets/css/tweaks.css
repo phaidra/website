@@ -15,3 +15,24 @@
   -webkit-box-shadow: 0 8px 40px -6px rgba(70,70,70,.4);
   box-shadow: 0 8px 40px -6px rgba(70,70,70,.4)
 }
+
+
+/* add small external arrow icon after every link when leaving the site */
+main a[href^="http"]:not([href*="phaidra.org"]):not([href*="localhost"]):after {
+  background-image: url('/assets/img/icons/external.svg');
+  display: inline-block;
+  height: 10px;
+  width: 1rem;
+  content: "";
+  background-repeat: no-repeat;
+  background-position-y: 0px;
+  background-position-x: 6px;
+  background-size: 10px;
+  margin-left: auto;
+  flex-shrink: 0;
+}
+
+/* since color of this icon has to be hardcoded into the svg we created a second one for the hover color */
+main a[href^="http"]:hover:not([href*="phaidra.org"]):not([href*="localhost"]):after {
+  background-image: url('/assets/img/icons/external_hover.svg');
+}
