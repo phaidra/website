@@ -1,0 +1,3 @@
+The Library is a public service facility of Kunstuniversität Linz and its collection reflects the curricula offered by the University. The Focus is on artistic and cultural production of the 20th and 21st century, especially in Fine Arts, Applied Arts, Media Art, Industrial Design, Architecture, Media Theory, Art History, Cultural Studies, Gender Studies as well as Art Education. In addition a comprehensive range of current journal titles is available.
+
+university-of-arts-linz

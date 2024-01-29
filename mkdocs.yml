@@ -26,3 +26,41 @@ extra_css:
 plugins:
   - search
   - privacy
+
+nav:
+  - Home: index.md
+  - Partners: 
+    - Overview: partners/overview.md
+    - List of Partners: community/list.md
+    - All Partners:
+      - Austria:
+        - Academy of Fine Arts Vienna: https://www.akbild.ac.at/en/home?set_language=en
+        - Anton Bruckner Private University: community/anton-bruckner-private-university.md
+        - Carinthia University of Applied Sciences: https://www.fh-kaernten.at/en/
+        - Gustav Mahler Private University for Music: https://www.gmpu.ac.at/
+        - University College of Christian Churches of Teacher Education Vienna/Krems: https://kphvie.ac.at/en/home.html
+        - St. Pölten University of Applied Sciences: community/st-poelten-university-of-applied-sciences.md
+        - Austrian Science Fund - FWF: community/austrian-science-fund-fwf.md
+        - Council of Austrian University Libraries (ubifo): community/council-of-austrian-university-libraries-ubifo.md
+        - University of Arts Linz: community/university-of-arts-linz.md
+        - University of Applied Arts Vienna: community/university-of-applied-arts-vienna.md
+        - University of Music and Performing Arts Graz: community/university-of-music-and-performing-arts-graz.md
+        - University of Vienna: community/university-of-vienna.md
+        - Danube University Krems - University for Continuing Education: community/university-for-continuing-education-krems.md
+        - University of Veterinary Medicine Vienna: community/university-of-veterinary-medicine-vienna.md
+        - Vorarlberger Landesbibliothek: community/vorarlberger-landesbibliothek.md
+      - Bosnia and Herzegovina:
+        - Univerzitet u Banjoj Luci: community/univerzitet-u-banjoj-luci.md
+        - Univerzitet u Sarajevu: https://www.unsa.ba/
+        - Univerzitet u Tuzli: https://www.untz.ba/
+      - Italy:
+        - Università Ca Foscari: community/universita-ca-foscari-venezia.md
+        - Università Iuav di Venezia: https://www.iuav.it/homepage/index.htm
+        - Università di Padov: community/universita-di-padova.md
+      - Montenegro:
+        - Univerzitet Crne Gor: community/univerzitet-crne-gore.md
+      - Serbia:
+        - Univerzitet u Beogradu: community/univerzitet-u-beogradu.md
+        - Univerzitet u Kragujevcu: community/univerzitet-u-kragujevcu.md
+        - Univerzitet u Nišu: community/univerzitet-u-nisu.md
+
