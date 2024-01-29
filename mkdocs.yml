@@ -29,6 +29,7 @@ plugins:
 
 nav:
   - Home: index.md
+  - FAIR Data: fair-data/index.md
   - Partners: 
     - Overview: partners/overview.md
     - List of Partners: community/list.md
