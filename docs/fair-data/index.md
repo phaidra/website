@@ -19,9 +19,9 @@ Our objective is to build a complete stack, with all the components needed to pr
 
 For end-users searching for objects, this means adding vital usability features, such as in-search image and document previews, as well as streaming services for audio, with support for a broad range of file formats. 
 
-PHAIDRA also provides an additional layer of domain-relevance to the way objects can be grouped, categorised, linked and thereby searched for. This can range from grouping according to the technical facets of similar/associated objects and datasets, through to groupings and taxonomies that may be more familiar to the end-user: from artistic genres and historical periods, through to source laboratory equipment or data licensing XXXX.  
+PHAIDRA also provides an additional layer of domain-relevance to the way objects can be grouped, categorised, linked and thereby searched for. This can range from grouping according to the technical facets of similar/associated objects and datasets, through to groupings and taxonomies that may be more familiar to the end-user: from artistic genres and historical periods, through to source laboratory equipment, specialist research categories or data licensing types.  
 
-For many of our users, access control is an essential flip-side to accessibility. PHAIDRA gives data owners the ability to define and differentiate access rights, create project groups, as well as providing comprehensive audit logs to see exactly who has accessed an object when.
+However, for many users access control is an essential flip-side to accessibility. PHAIDRA gives data owners the ability to define and differentiate access rights, create project groups, as well as providing comprehensive audit logs to see exactly who has accessed an object when.
  
 ## Interoperable
 
