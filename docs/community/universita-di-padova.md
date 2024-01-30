@@ -9,6 +9,8 @@ Some digital collections are also accessible via Europeana, the vast European di
 
  
 
-Contact: <phaidra@cab.unipd.it>
+#### Contact: 
+E-Mail: <phaidra@cab.unipd.it>
+
 
 [Local PHAIDRA Repository](https://phaidra.cab.unipd.it/) (Cooperation with Venice) 
