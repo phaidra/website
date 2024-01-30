@@ -17,4 +17,4 @@ Veterinärplatz 1
 E-Mail: <bibliothekinfo@vetmeduni.ac.at>
 Tel: 01-25077-1414
  
-[Local PHAIDRA Repository](https://phaidra.kug.ac.at/)
+[Local PHAIDRA Repository](https://phaidra.vetmeduni.ac.at/)
