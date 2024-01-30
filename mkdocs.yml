@@ -30,9 +30,18 @@ plugins:
 nav:
   - Home: index.md
   - FAIR Data: fair-data/index.md
-  - Partners: 
+  - Documentation:
+    - docs/overview.md
+    - Learn More:
+      - docs/architecture.md
+      - docs/features.md
+    
+    - Get Started:
+      - docs/docker.md
+      - docs/github.md
+  - Community: 
     - Overview: partners/overview.md
-    - List of Partners: community/list.md
+    - List of Partner Institutions: community/list.md
     - All Partners:
       - Austria:
         - Academy of Fine Arts Vienna: https://www.akbild.ac.at/en/home?set_language=en

@@ -1,4 +1,4 @@
-# List of Current Partners
+# List of Partner Institutions
 
 ![](/assets/img/phaidra_partners_map.jpeg)
 
