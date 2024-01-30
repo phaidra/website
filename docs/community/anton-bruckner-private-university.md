@@ -8,8 +8,8 @@ The *[Anton Bruckner Private University](https://www.bruckneruni.at/)* for music
 
 E-Mail: <phaidra@bruckneruni.at>
 
-ANTON BRUCKNER PRIVATE UNIVERSITY
-Library
-Hagenstraße 57
-4040 Linz, Austria
+ANTON BRUCKNER PRIVATE UNIVERSITY  
+Library  
+Hagenstraße 57  
+4040 Linz, Austria  
 
