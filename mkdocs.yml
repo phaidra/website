@@ -20,8 +20,8 @@ theme:
     - navigation.path
 
 extra_css:
-  - assets/css/tweaks.css
   - assets/css/tailwind.min.css
+  - assets/css/tweaks.css
 
 plugins:
   - search
