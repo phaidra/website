@@ -9,11 +9,11 @@ A steadily increasing number of digital objects of a great variety lead the libr
  
 #### Contact:
 
-Paul Harm, BA MA
-<paul.harm@kug.ac.at>
-Kunstuniversität Graz
-Universitätsbibliothek
-Brandhofgasse 17-19
+Paul Harm, BA MA  
+<paul.harm@kug.ac.at>  
+Kunstuniversität Graz  
+Universitätsbibliothek  
+Brandhofgasse 17-19  
 A-8010 Graz
 
  
