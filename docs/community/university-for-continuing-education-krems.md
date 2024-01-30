@@ -8,15 +8,15 @@ As part of our research data management, we’re establishing PHAIDRA at our Uni
 
  
 
-Contact:
+#### Contact:
 
-Universität für Weiterbildung Krems
+E-Mail: <bibliothek@donau-uni.ac.at>  
+Tel: +432732 893 2240  
 
-Universitätsbibliothek und Universitätsarchiv
-<bibliothek@donau-uni.ac.at>
-
-+432732 893 2240
-Dr. Karl-Dorrek Straße 30
+Universitätsbibliothek und Universitätsarchiv  
+Universität für Weiterbildung Krems  
+Dr. Karl-Dorrek Straße 30  
 3500 Krems
+
 
 [Local PHAIDRA Repository](https://door.donau-uni.ac.at/)
