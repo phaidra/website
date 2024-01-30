@@ -7,11 +7,13 @@ Established in 1996, the St. Pölten UAS (Fachhochschule St. Pölten) currently 
  
 #### Contact:
 
-Karl Rathmanner
-E-Mail: <karl.rathmanner@fhstp.ac.at>
-Fachhochschule St. Pölten GmbH
-Matthias Corvinus-Straße 15
-A-3100 St. Pölten
+Karl Rathmanner  
+
+E-Mail: <karl.rathmanner@fhstp.ac.at>  
+
+Fachhochschule St. Pölten GmbH  
+Matthias Corvinus-Straße 15  
+A-3100 St. Pölten  
 
  
 [Local PHAIDRA Repository](https://phaidra.fhstp.ac.at/) 
