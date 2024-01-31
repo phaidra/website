@@ -36,7 +36,6 @@ nav:
     - docs/overview.md
     - Get Started: docs/get-started.md
     - PHAIDRA Structure:
-      - High Level: docs/high-level.md
       - docs/features.md
   - Community: 
     - Overview: community/overview.md
