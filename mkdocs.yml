@@ -34,13 +34,10 @@ nav:
   - FAIR Data: fair-data/index.md
   - Documentation: # talks more to the technical people, developers, etc.
     - docs/overview.md
-    - Learn More:
-      - docs/architecture.md
+    - Get Started: docs/get-started.md
+    - PHAIDRA Structure:
+      - High Level: docs/high-level.md
       - docs/features.md
-    
-    - Get Started:
-      - docs/docker.md
-      - docs/github.md
   - Community: 
     - Overview: community/overview.md
     - List of Partner Institutions: community/list-of-partners.md

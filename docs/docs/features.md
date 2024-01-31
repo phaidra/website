@@ -1,8 +1,6 @@
-## What is PHAIDRA?
+## Main Usecase
 
-PHAIDRA (an acronym for Permanent Hosting, Archiving and Indexing of Digital Resources and Assets) is an open source digital object repository, actively developed at the University of Vienna since 2007 and adopted by a number of interantional universities and organisations.
-
-PHAIDRA is an extension of Fedora repository (or Fedora Commons, or fcrepo) and offers a comprehensive software bundle required to manage digital content from authentication and submit to preservation and dissemination. It's two main aspects are:
+PHAIDRA's two main aspects are:
 
 - **1. Publication**
 - **2. Archiving**
