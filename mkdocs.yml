@@ -6,6 +6,7 @@ theme:
   palette:
     primary: white
   logo: /assets/img/logo.svg
+  logo_text: /assets/img/logo_text.svg
   favicon: /assets/img/logo.svg
   icon:
     repo: fontawesome/brands/github
