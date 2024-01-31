@@ -7,7 +7,7 @@
 Vetmeduni Vienna is using PHAIDRA as a platform for permanent and long-term-preservation of electronic documents. These different kind of documents are created by researchers and graduate students of Vetmeduni Vienna. The system is operated by the Vetmeduni Vienna University Library.
 
  
-#### Contact:
+#### Contact
 
 University Library  
 Vetmeduni Vienna  

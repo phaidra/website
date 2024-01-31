@@ -9,4 +9,4 @@ More than just a data store, we aim that the archive becomes a place where resea
 
 More than just a data store, we aim that the archive becomes a place where research data and digital assets go to live and be reused.
 
-[Find out more about how PHAIDRA works.](website/docs/docs)
+[Find out more about how PHAIDRA works.](/docs/overview/)
