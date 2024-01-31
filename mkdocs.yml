@@ -30,8 +30,9 @@ plugins:
 
 nav:
   - Home: index.md
+  - About: about/index.md # talks more to the data steward or high level data manager
   - FAIR Data: fair-data/index.md
-  - Documentation:
+  - Documentation: # talks more to the technical people, developers, etc.
     - docs/overview.md
     - Learn More:
       - docs/architecture.md
@@ -41,8 +42,8 @@ nav:
       - docs/docker.md
       - docs/github.md
   - Community: 
-    - Overview: partners/overview.md
-    - List of Partner Institutions: community/list.md
+    - Overview: community/overview.md
+    - List of Partner Institutions: community/list-of-partners.md
     - All Partners:
       - Austria:
         - Academy of Fine Arts Vienna: https://www.akbild.ac.at/en/home?set_language=en
