@@ -31,7 +31,8 @@ From online museums, libraries and archives to field-specific applications from 
 
 Whether it is for backend integration projects or just developers looking to use their own favourite tools and frameworks, The PHAIDRA API offers access to the features of the PHAIDRA stack through a REST API. 
 
-The API delivers more than simple access to the data, with the ability to access the full functionality of the PHAIDRA stack as a set of services. This includes all the necessary workflow and methods around an object, for example image provision, streaming or upload verification. 
+The API delivers more than simple access to the data, with the ability to access the full functionality of the PHAIDRA stack as a set of services.
+This includes all the necessary workflow and methods around an object, for example image provision, usage statistics or upload verification. 
 
 PHAIDRA API offers a straightforward, technology-agnostic option for developers, providing a helpful and powerful set of API services, through a set of clearly-structured JSON calls. 
 

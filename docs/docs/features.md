@@ -13,9 +13,9 @@ To introduce some core features and properties of a typical PHAIDRA instance, we
 
 ### Ingest
 
-PHAIDRA can currently use 3 metadata "standards":
+PHAIDRA can currently use 3 metadata schemas:
 
-- JSON-LD - an RDF based, Linked-Data conform format combining many open metadata standards, like Dublin Core, BIBFRAME, Schema.org, EBUCore, etc. (a SHACL shape) and making use of persistemt identifiers and controlled vocabularies.
+- JSON-LD - an RDF based, Linked-Data conform format combining many open metadata standards, like Dublin Core, BIBFRAME, Schema.org, EBUCore, etc. (a SHACL shape) and making use of persistent identifiers and controlled vocabularies.
 
 - A LOM based UWMETADATA format
 
