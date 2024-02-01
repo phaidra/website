@@ -17,6 +17,15 @@
   
   <section class="bg-white">
     <div class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 lg:px-6">
+      <!-- show replacement icons when mobile -->
+      <div class="flex md:hidden justify-center items-center">
+        <span class="w-24 text-gray-600">
+          {% include ".icons/material/grave-stone.svg" %}
+        </span>
+        <span class="w-32 ml-8 text-gray-800">
+          {% include ".icons/material/run-fast.svg" %}
+        </span>
+      </div>
       <div class="mt-4 md:mt-0">
         <h2 class="mb-4 text-3xl tracking-tight font-extrabold" id="stop-the-graveyard">Leave the Data-Graveyard Go&nbsp;FAIR&nbsp;Instead</h2>
         <p class="mb-6 font-light text-gray-800 text-lg">
@@ -29,7 +38,8 @@
           Learn About FAIR
         </a>
       </div>
-      <div class="flex justify-around items-center">
+      <!-- right oriented icons, hidden when mobile -->
+      <div class="hidden md:flex justify-around items-center">
         <span class="w-1/3 text-gray-600">
           {% include ".icons/material/grave-stone.svg" %}
         </span>
@@ -40,11 +50,12 @@
     </div>
     
     <div class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 lg:px-6">
+      <!-- left oriented icons, just adapt when mobile -->
       <div class="flex justify-center items-center">
-        <span class="w-1/2 text-gray-800">
+        <span class="w-24 md:w-1/2 text-gray-800">
           {% include ".icons/material/file-upload.svg" %}
         </span>
-        <span class="w-1/6 text-green-700">
+        <span class="w-12 md:w-1/6 text-green-700">
           {% include ".icons/material/checkbox-marked-outline.svg" %}
         </span>
       </div>
@@ -63,6 +74,15 @@
     </div>
     
     <div class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 lg:px-6">
+      <!-- show replacement icons when mobile -->
+      <div class="flex md:hidden justify-center items-end">
+        <span class="w-16 text-gray-600">
+          {% include ".icons/material/cog.svg" %}
+        </span>
+        <span class="w-32 ml-4 text-gray-800">
+          {% include ".icons/material/diving-scuba.svg" %}
+        </span>
+      </div>
       <div class="mt-4 md:mt-0">
         <h2 class="mb-4 text-3xl tracking-tight font-extrabold" id="stop-the-graveyard">Dive Deep into the Open&nbsp;Tech</h2>
         <p class="mb-6 font-light text-gray-800 text-lg">
@@ -72,7 +92,8 @@
           Take the Plunge
         </a>
       </div>
-      <div class="flex justify-around items-end">
+      <!-- right oriented icons, hidden when mobile -->
+      <div class="hidden md:flex justify-around items-end">
         <span class="w-1/4 text-gray-600">
           {% include ".icons/material/cog.svg" %}
         </span>
@@ -129,15 +150,18 @@
   
     <hr class="my-8"/>
 
-    <div class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 lg:px-6">
-      <div class="mt-4 md:mt-0">
+    <div class="gap-8 items-center py-4 md:py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 lg:px-6">
+      <!-- show top image when mobile - do not link image on mobile as there is a clear button below -->
+      <img alt="epistemicast logo" src="/assets/img/epistemicast_logo.png" class="block md:hidden pb-6">
+      <div>
         <h2 class="mb-4 text-3xl tracking-tight font-extrabold">Join the Open Academia Movement</h2>
         <p class="mb-6 font-light text-gray-800 text-lg">PHAIDRA is just one piece of the puzzle of today's big questions around Open&nbsp;Research, Open&nbsp;Access and Open&nbsp;Academia. Tune into the discussion on EpistemiCast with guests from around the globe.</p>
         <a href="https://epistemicast.org" class="text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">
           Visit EpistemiCast 🎙️
         </a>
       </div>
-      <a href="https://epistemicast.org">
+      <!-- right oriented, hide when mobile -->
+      <a href="https://epistemicast.org" class="hidden md:block">
         <img alt="epistemicast logo" src="/assets/img/epistemicast_logo.png">
       </a>
     </div>
