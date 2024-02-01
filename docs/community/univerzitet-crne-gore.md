@@ -1,5 +1,3 @@
-## Univerzitet Crne Gore
-
 Participation of University of Montenegro in the project which tends to strenghten library services through introduction of PHAIDRA system is an indicator of University’s willingness to build the unique base of digital, permanently stored data. The primary function of PHAIDRA at the University of Montenegro is creation of database which will contain master and doctoral thesis, as well as all other documents that are created during the teaching process at the University. Such collection of data will highly increase the availability of documents and facilitate searching to our users, giving the authors the unique opportunity for digitalisation and permanent hosting of their work.
 
 PHAIDRA system is of special importance for our institution especially because it eliminates the risk of losing the documents, provides the usage of different media and enables individual creating of documents.
@@ -7,7 +5,7 @@ PHAIDRA system is of special importance for our institution especially because i
 We strongly believe in the benefits of PHAIDRA for our academic community, and looking forward to numerous possibilities that PHAIDRA will bring to our users.
 
  
-#### Contact:
+#### Contact
 
 phaidra@ucg.ac.me
 
@@ -21,5 +19,5 @@ Montenegro
 [Local PHAIDRA Repository](http://www.ucg.ac.me/objava/blog/8/objava/30-digitalni-arhiv)
 
 
-![](/assets/img/partner_logos/csm_Montenegroprettypic.jpeg) 
+![](/assets/img/partner_logos/csm_Montenegro_prettypic.jpeg) 
 

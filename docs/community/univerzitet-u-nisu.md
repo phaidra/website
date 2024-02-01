@@ -10,7 +10,7 @@ The University Library "Nikola Tesla" in Niš, as a central library, has been wo
 
  
 
-#### Contact:
+#### Contact
 
 E-Mail: <info-ubn@ni.ac.rs>  
 Tel: +381 18 523 421

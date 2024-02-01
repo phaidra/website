@@ -9,7 +9,7 @@ Some digital collections are also accessible via Europeana, the vast European di
 
  
 
-#### Contact: 
+#### Contact 
 E-Mail: <phaidra@cab.unipd.it>
 
 

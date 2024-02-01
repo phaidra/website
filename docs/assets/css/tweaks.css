@@ -133,6 +133,10 @@ audio,canvas,embed,iframe,img,object,svg,video {
   vertical-align: middle
 }
 
+svg {
+  fill: currentColor;
+}
+
 /* 
 
 Styling for showcase phaidra partners

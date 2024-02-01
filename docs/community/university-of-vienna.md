@@ -15,7 +15,7 @@ PHAIDRA was developed at the University of Vienna and by its Central Informatics
 
  
 
-#### Contact:
+#### Contact
 
 Head of Department: Dr. Susanne Blumesberger
 

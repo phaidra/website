@@ -11,7 +11,7 @@ The active Library holdings total around 100.000 copies of domestic and foreign 
 The University Library, as part of its main activity, accomplishes a series of accompanying programs (scientific, literary and cultural, teaching and educational, vocational and publishing). The Library has its own publishing activity and publishes Bibliography of papers of professors and researchers of the University, as well as Bibliography of doctoral dissertations and master theses defended at University of Kragujevac.
 
  
-#### Contact:
+#### Contact
 
 E-Mail: ubkg@kg.ac.rs  
 Tel: +381 (0)34 300-299     
@@ -22,4 +22,4 @@ Ulica slobode bb
 Serbia  
 
 
-![](/assets/img/partner_logos/csm_University_library_Kragujevac_picture_2_3a4bf13f04)
+![](/assets/img/partner_logos/csm_University_library_Kragujevac_picture_2_3a4bf13f04.jpg)
