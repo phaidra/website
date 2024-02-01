@@ -29,11 +29,25 @@
           Learn About FAIR
         </a>
       </div>
-      <%= image_tag "dark-mode.svg", class: "w-full", alt: "some alt text" %>
+      <div class="flex justify-around items-center">
+        <span class="w-1/3 text-gray-600">
+          {% include ".icons/material/grave-stone.svg" %}
+        </span>
+        <span class="w-1/2 text-gray-800">
+          {% include ".icons/material/run-fast.svg" %}
+        </span>
+      </div>
     </div>
-
+    
     <div class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 lg:px-6">
-      <%= image_tag "rtl.svg", class: "w-full", alt: "some alt text" %>
+      <div class="flex justify-center items-center">
+        <span class="w-1/2 text-gray-800">
+          {% include ".icons/material/file-upload.svg" %}
+        </span>
+        <span class="w-1/6 text-green-700">
+          {% include ".icons/material/checkbox-marked-outline.svg" %}
+        </span>
+      </div>
       <div class="mt-4 md:mt-0">
         <h2 class="mb-4 text-3xl tracking-tight font-extrabold">Simplify Your Management with a Refined Solution</h2>
         <p class="mb-6 font-light text-gray-800 text-lg">
@@ -58,7 +72,14 @@
           Take the Plunge
         </a>
       </div>
-      <%= image_tag "dark-mode.svg", class: "w-full", alt: "some alt text" %>
+      <div class="flex justify-around items-end">
+        <span class="w-1/4 text-gray-600">
+          {% include ".icons/material/cog.svg" %}
+        </span>
+        <span class="w-1/2 text-gray-800">
+          {% include ".icons/material/diving-scuba.svg" %}
+        </span>
+      </div>
     </div>
   
     <hr class="my-8"/>
@@ -118,7 +139,9 @@
           Visit EpistemiCast 🎙️
         </a>
       </div>
-      <%= image_tag "rtl.svg", class: "w-full", alt: "some alt text" %>
+      <a href="https://epistemicast.org">
+        <img alt="epistemicast logo" src="/assets/img/epistemicast_logo.png">
+      </a>
     </div>
   </section>
 {% endblock %}
