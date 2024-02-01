@@ -1,4 +1,6 @@
-# More Than Just a Data Store
+# About PHAIDRA
+
+## More Than Just a Data Store
 
 PHAIDRA does everything a data and digital asset repository should do, but PHAIDRA is much more.
 
@@ -7,8 +9,6 @@ The project is built on the [Fedora Repository](https://fedora.lyrasis.org/) - o
 PHAIDRA is focused on simplifying digital management plans and delivering modern digital services. The comprehensive stack of open technologies makes it easier for projects to not just store, but to share, reuse and repurpose digital assets. And, in line with FAIR data principles, PHAIDRA ensures data can be found, accessed, integrated and reused by others. 
 
 More than just a data store, our aim is that the archive becomes a place where research data and digital assets go to live in the open.
-
---------------
 
 ## PHAIDRA OVERVIEW
 
