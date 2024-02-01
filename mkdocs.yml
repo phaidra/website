@@ -12,7 +12,7 @@ theme:
     repo: fontawesome/brands/github
   custom_dir: overrides
   features:
-    - navigation.instant
+    # - navigation.instant # this messed up the live verion for David with Brave, remove to quickfix, maybe reconsider in the future
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
