@@ -1,6 +1,6 @@
 # University of Vienna
 
-![](/assets/img/partner_logos/csm_UniVie_Logo.png)
+![](/assets/img/uni_vienna_logo_blue.svg)
 
 PHAIDRA, an acronym for Permanent Hosting, Archiving and Indexing of Digital Resources and Assets, is an all-university digital asset management system with permanent storing functions. PHAIDRA provides a technological basis for the realization of the Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities, which was signed on January 26, 2010, by Georg Winckler, the Rector of the University of Vienna at that time.
 
