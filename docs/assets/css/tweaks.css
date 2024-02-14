@@ -36,7 +36,7 @@ hr {
 
 /* add small external arrow icon after every link when leaving the site */
 main a[href^="http"]:not([href*="phaidra.org"]):not([href*="localhost"]):after {
-  background-image: url('/assets/img/icons/external.svg');
+  background-image: url('/assets/external/icons/material/arrow-top-right.svg');
   display: inline-block;
   height: 15px;
   width: 1rem;
@@ -51,7 +51,7 @@ main a[href^="http"]:not([href*="phaidra.org"]):not([href*="localhost"]):after {
 
 /* since color of this icon has to be hardcoded into the svg we created a second one for the hover color */
 main a[href^="http"]:hover:not([href*="phaidra.org"]):not([href*="localhost"]):after {
-  background-image: url('/assets/img/icons/external_hover.svg');
+  background-image: url('/assets/external/icons/material/arrow-top-right.svg');
 }
 
 /* 
