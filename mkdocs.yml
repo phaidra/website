@@ -83,4 +83,5 @@ plugins:
       redirect_maps:
         # https://github.com/mkdocs/mkdocs-redirects
         'resources.md': 'index.md'
+        'community/phaidra-partners.md': 'community/list-of-partners.md'
 
