@@ -4,10 +4,9 @@ PHAIDRA system is of special importance for our institution especially because i
 
 We strongly believe in the benefits of PHAIDRA for our academic community, and looking forward to numerous possibilities that PHAIDRA will bring to our users.
 
- 
 #### Contact
 
-phaidra@ucg.ac.me
+Email: <phaidra@ucg.ac.me>
 
 University of Montenegro - Central University Library  
 Univerzitet Crne Gore  
@@ -15,9 +14,7 @@ Cetinjska 2
 81000 Podgorica  
 Montenegro  
 
- 
 [Local PHAIDRA Repository](http://www.ucg.ac.me/objava/blog/8/objava/30-digitalni-arhiv)
 
-
-![](/assets/img/partner_logos/csm_Montenegro_prettypic.jpeg) 
+![](/assets/external/img/banners/university-crne-gore.jpeg) 
 

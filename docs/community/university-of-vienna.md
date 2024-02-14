@@ -1,6 +1,6 @@
 # University of Vienna
 
-![](/assets/external/img/logos/uni_vienna_blue.svg)
+![](/assets/external/img/logos/uni-vienna-blue.svg){.w-1/2}
 
 PHAIDRA, an acronym for Permanent Hosting, Archiving and Indexing of Digital Resources and Assets, is an all-university digital asset management system with permanent storing functions. PHAIDRA provides a technological basis for the realization of the Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities, which was signed on January 26, 2010, by Georg Winckler, the Rector of the University of Vienna at that time.
 
@@ -13,8 +13,6 @@ The protection of the rights of authors and others is in accordance with the ter
 ## Organizational Guides
 PHAIDRA was developed at the University of Vienna and by its Central Informatics Service (in German: Zentraler Informatikdienst - ZID) and is technically supervised for content by the University Library. The project direction takes place in the University Library. The specified Terms of Use apply. The electronic publishing and archiving is free for object suppliers (there are limits to be observed, e.g. for students, or organizational units) and is performed simply through the process of independent uploading. Users are supported by the PHAIDRA service, reachable at support.phaidra@univie.ac.at. In case of technical problems, the university-wide help desk of the ZID of the University of Vienna provides support Online help is integrated throughout the system and can be specifically accessed whenever necessary. The most important information appears regularly on the service site (including cases concerning legal issues surrounding usage). Regular announcements are posted. Training: Training is provided by the library or as part of university training measures to be conducted in human resources development. In addition, if required, individual special training will be provided.
 
- 
-
 #### Contact
 
 Head of Department: Dr. Susanne Blumesberger
@@ -25,8 +23,6 @@ University Library of Vienna - PHAIDRA
 Universitätsring 1  
 A-1010 Vienna  
 
- 
-
 [Local PHAIDRA Repository](https://phaidra.univie.ac.at/) 
 
-![](/assets/img/partner_logos/csm_UniWien_Arkadenhof.jpeg)
+![](/assets/external/img/banners/uni-wien-arkadenhof.jpeg)
