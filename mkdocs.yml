@@ -29,6 +29,8 @@ markdown_extensions:
 extra_css:
   - assets/css/reset.css
   - assets/external/css/tailwind.min.css
+  - assets/css/landing-page.css
+  - assets/css/tooltips.css
   - assets/css/tweaks.css
 
 plugins:
