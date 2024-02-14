@@ -6,3 +6,4 @@ Council of Austrian University Libraries (ubifo) is an operational platform of a
 
 <office@ubifo.at>
 
+[Information about the Repository Network](https://ubifo.at/aktivitaeten.html)

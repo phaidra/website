@@ -20,7 +20,7 @@ The Project should enable the partner universities to realize the complete autom
  
 #### Contact
 
-E-Mail: <info@phaidrabg.rs>
+Email: <info@phaidrabg.rs>
 
 University of Belgrade - Library  
 Univerzitet u Beogradu  
@@ -30,4 +30,4 @@ Serbien
 
 [Local PHAIDRA Repository](https://phaidrabg.bg.ac.rs/)
 
-![](/assets/external/img/banners/bibliothek-belgrad.jpeg)
+![](/assets/external/img/banners/bibliothek-belgrad.jpeg){.mt-8 .w-2/3 .md:w-1/2}

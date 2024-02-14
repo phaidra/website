@@ -12,7 +12,7 @@ The University Library, as part of its main activity, accomplishes a series of a
 
 #### Contact
 
-E-Mail: ubkg@kg.ac.rs  
+Email: ubkg@kg.ac.rs  
 Tel: +381 (0)34 300-299     
 +381 (0)34 302-219 
 
@@ -20,4 +20,4 @@ Ulica slobode bb
 34000 Kragujevac  
 Serbia  
 
-![](/assets/external/img/banners/university-library-kragujevac.jpg)
+![](/assets/external/img/banners/university-library-kragujevac.jpg){.mt-8 .w-2/3 .md:w-1/2}

@@ -5,7 +5,7 @@ At the Vorarlberger Landesbibliothek PHAIDRA supports the continuous preservatio
 #### Contact
 
 Harald Eberle  
-E-Mail: <harald.eberle@vorarlberg.at>  
+Email: <harald.eberle@vorarlberg.at>  
 
 Vorarlberger Landesbibliothek  
 Fluher Straße 4  
@@ -15,4 +15,4 @@ A-6900 Bregenz
 
 [Volare-Blog](https://pid.volare.vorarlberg.at/blog/)
 
-![](/assets/external/img/banners/va-landesbibliothek.jpeg)
+![](/assets/external/img/banners/va-landesbibliothek.jpeg){.mt-8 .w-2/3 .md:w-1/2}
