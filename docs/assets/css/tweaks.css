@@ -38,13 +38,13 @@ hr {
 main a[href^="http"]:not([href*="phaidra.org"]):not([href*="localhost"]):after {
   background-image: url('/assets/img/icons/external.svg');
   display: inline-block;
-  height: 10px;
+  height: 15px;
   width: 1rem;
   content: "";
   background-repeat: no-repeat;
-  background-position-y: 0px;
-  background-position-x: 6px;
-  background-size: 10px;
+  background-position-y: 2px;
+  background-position-x: 2px;
+  background-size: 14px;
   margin-left: auto;
   flex-shrink: 0;
 }
