@@ -4,11 +4,11 @@
 
 #### Austria
 
-- [Academy of Fine Arts Vienna](https://www.akbild.ac.at/en/home?set_language=en)
+- [Academy of Fine Arts Vienna](/community/academy-of-fine-arts-vienna/)
 - [Anton Bruckner Private University](/community/anton-bruckner-private-university/)
 - [Carinthia University of Applied Sciences](https://www.fh-kaernten.at/en/)
-- [Gustav Mahler Private University for Music](https://www.gmpu.ac.at/)
-- [University College of Christian Churches of Teacher Education Vienna/Krems](https://kphvie.ac.at/en/home.html)
+- [Gustav Mahler Private University for Music](/community/gustav-mahler-private-university-for-music/)
+- [University College of Christian Churches of Teacher Education Vienna/Krems](/community/kph-vienna-krems/)
 - [St. Pölten University of Applied Sciences](/community/st-poelten-university-of-applied-sciences/)
 - [Austrian Science Fund - FWF](/community/austrian-science-fund-fwf/)
 - [Council of Austrian University Libraries (ubifo)](/community/council-of-austrian-university-libraries-ubifo/)

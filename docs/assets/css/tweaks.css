@@ -1,3 +1,8 @@
+/* 
+  NAV Adjustments for:
+*/
+
+/* 1. Nice relation of top Logo + Text to one another */
 .md-header__button.md-logo img,.md-header__button.md-logo svg {
   height: 3.2rem;
 }
@@ -11,21 +16,30 @@
   margin-right: .4rem
 }
 
+/* 2. nav shadow -> is the same as on the main uni website */
 .md-header {
   -webkit-box-shadow: 0 8px 40px -6px rgba(70,70,70,.4);
   box-shadow: 0 8px 40px -6px rgba(70,70,70,.4)
 }
 
-article img {
-  margin: 2rem 0;
-}
-
+/* Add margins to paragraphs - without this texts quickly become a long word salad */
 article p {
   margin: 1rem 0;
 }
 
+/* Add padding-bottom for nicer cushion towards footer */
 article {
   padding-bottom: 4rem;
+}
+
+/* 
+  Fill all svg icons with the currentColor - this is needed when including icons via mkdocs-material
+
+  you can add a tailwind class to the container element (eg: <span class="text-red-500">
+  and then the included icon will take over that color
+ */
+svg {
+  fill: currentColor;
 }
 
 /* somehow tailwind class did not get taken, so putting it in here */
@@ -34,140 +48,22 @@ hr {
   box-sizing: border-box;
 }
 
-/* add small external arrow icon after every link when leaving the site */
+/* Automatically add an external arrow icon ::after every outgoing link */
 main a[href^="http"]:not([href*="phaidra.org"]):not([href*="localhost"]):after {
-  background-image: url('/assets/img/icons/external.svg');
+  background-image: url('/assets/external/icons/material/arrow-top-right.svg');
   display: inline-block;
-  height: 10px;
+  height: 15px;
   width: 1rem;
   content: "";
   background-repeat: no-repeat;
-  background-position-y: 0px;
-  background-position-x: 6px;
-  background-size: 10px;
+  background-position-y: 2px;
+  background-position-x: 2px;
+  background-size: 14px;
   margin-left: auto;
   flex-shrink: 0;
 }
 
-/* since color of this icon has to be hardcoded into the svg we created a second one for the hover color */
+/* since color of the external icon has to be hardcoded into the svg we created a second one for the hover color */
 main a[href^="http"]:hover:not([href*="phaidra.org"]):not([href*="localhost"]):after {
-  background-image: url('/assets/img/icons/external_hover.svg');
-}
-
-/* 
-  flowbite has a tooltip component based on JavaScript
-  this is a CSS based solution which then takes flowbite tooltip classes to follow the style 
-  it does _not_ implement the bottom triangle as that would become too complicated
-*/
-
-[tooltip] {
-  position: relative;
-}
-
-[tooltip]:hover {
-  cursor: help;
-}
-
-[tooltip]:after,[tooltip]:before {
-  --tw-translate-x: -50%;
-  --tw-translate-y: -0.5rem;
-  display: none;
-  left: 50%;
-  opacity: 0;
-  pointer-events: none;
-  transform: translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  user-select: none
-}
-
-[tooltip]:after,[tooltip]:before {
-  position: absolute
-}
-
-[tooltip]:after {
-  --tw-bg-opacity: 1;
-  --tw-text-opacity: 1;
-  --tw-shadow: 0 1px 2px 0 #0000000d;
-  --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color);
-  background-color: rgb(17 24 39/var(--tw-bg-opacity));
-  border-radius: .5rem;
-  bottom: calc(100% + 5px);
-  box-shadow: var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow);
-  color: rgb(255 255 255/var(--tw-text-opacity));
-  content: attr(tooltip);
-  display: inline-block;
-  font-size: .875rem;
-  font-weight: 500;
-  height: -moz-max-content;
-  height: max-content;
-  line-height: 1.25rem;
-  max-width: 300px;
-  padding: .5rem .75rem;
-  transition-duration: .3s;
-  transition-property: opacity;
-  transition-timing-function: cubic-bezier(.4,0,.2,1);
-  width: -moz-max-content;
-  width: max-content;
-  z-index: 10
-}
-
-[tooltip=""]:after,[tooltip=""]:before {
-  display: none!important
-}
-
-[tooltip]:hover:after,[tooltip]:hover:before {
-  animation: tooltips-vert .3s ease-out forwards;
-  display: block
-}
-
-@keyframes tooltips-vert {
-  to {
-    opacity: 1;
-    transform: translate(-50%, 0);
-  }
-}
-
-audio,canvas,embed,iframe,img,object,svg,video {
-  display: block;
-  vertical-align: middle
-}
-
-svg {
-  fill: currentColor;
-}
-
-/* 
-
-Styling for showcase phaidra partners
-
-*/
-
-#partner-logos a img, #partner-logos a svg {
-  height: 120px;
-  width: auto;
-}
-
-#partner-logos a, #partner-logos svg {
-  filter: grayscale(100%);
-}
-
-#partner-logos a:hover {
-  filter: grayscale(0%);
-}
-
-#partner-logos a:hover {
-  --tw-translate-x: 0;
-  --tw-translate-y: 0;
-  --tw-rotate: 0;
-  --tw-skew-x: 0;
-  --tw-skew-y: 0;
-  --tw-scale-x: 1;
-  --tw-scale-y: 1;
-  transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
-}
-
-#partner-logos a:hover {
-  --tw-scale-x: .95;
-  --tw-scale-y: .95;
+  background-image: url('/assets/external/icons/material/arrow-top-right.svg');
 }
