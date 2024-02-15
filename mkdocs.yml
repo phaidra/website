@@ -1,4 +1,5 @@
 site_name: PHAIDRA
+site_url: https://phaidra.org
 repo_url: https://github.com/phaidra/phaidra
 repo_name: phaidra/phaidra
 theme:
