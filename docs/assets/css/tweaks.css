@@ -11,6 +11,11 @@
   font-size: 2rem;
 }
 
+/* set height for logo text (FF browser needs this as it does not apply height: auto */
+.md-header__title .md-header__topic img {
+  height: 1.3rem;
+}
+
 [dir=ltr] .md-header__title {
   margin-left: .4rem;
   margin-right: .4rem
