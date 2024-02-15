@@ -33,7 +33,7 @@ article p {
 }
 
 /* Add padding-bottom for nicer cushion towards footer */
-article {
+article:last-child {
   padding-bottom: 4rem;
 }
 
@@ -71,4 +71,9 @@ main a[href^="http"]:not([href*="phaidra.org"]):not([href*="localhost"]):after {
 /* since color of the external icon has to be hardcoded into the svg we created a second one for the hover color */
 main a[href^="http"]:hover:not([href*="phaidra.org"]):not([href*="localhost"]):after {
   background-image: url('/assets/external/icons/material/arrow-top-right.svg');
+}
+
+.md-social__link {
+  width: auto;
+  height: 1.6em;
 }
