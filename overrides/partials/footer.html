@@ -91,6 +91,33 @@
         <img src="/assets/external/img/logos/uni-vienna-white.svg" alt="">
       </a>
       <div class="flex flex-col gap-2">
+        <!-- Social links -->
+        {% for social in config.extra.social %}
+
+          <!-- Automatically set rel=me for Mastodon -->
+          {% set rel = "noopener" %}
+          {% if "mastodon" in social.icon %}
+            {% set rel = rel ~ " me" %}
+          {% endif %}
+
+          <!-- Compute title and render link -->
+          {% set title = social.name %}
+          {% if not title and "//" in social.link %}
+            {% set _, url = social.link.split("//") %}
+            {% set title  = url.split("/")[0] %}
+          {% endif %}
+          <a
+            href="{{ social.link }}"
+            target="_blank" rel="{{ rel }}"
+            title="{{ title | e }}"
+            class="flex gap-2"
+          >
+            {{ title | e }}
+            <span class="shrink h-4 w-4">
+              {% include ".icons/" ~ social.icon ~ ".svg" %}
+            </span>
+          </a>
+        {% endfor %}
         <a href="/impressum/">Contact & Imprint</a>
         <a href="/sitemap.xml">Sitemap</a>
         <span class="text-xs text-gray-500 mt-6">
